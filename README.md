@@ -7,10 +7,10 @@
 <!-- badges: end -->
 
 This repository contains the SNOMED codes referred to in the NHSR
-Community webinar presented by James Partington on 10 July 2024:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vSekPvgwJKY?si=1a9OpLPIwGE6Fkhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
+Community webinar [Unveiling Congenital Heart Disease and Comorbidities
+using Primary Care
+data](https://www.youtube.com/embed/vSekPvgwJKY?si=1a9OpLPIwGE6Fkhj)
+presented by James Partington on 10 July 2024.
 
 The data is an extract of the SNOMED reference page from the CHD Power
 BI tool developed by the Cheshire and Merseyside Health and Care
